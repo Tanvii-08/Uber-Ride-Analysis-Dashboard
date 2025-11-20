@@ -24,6 +24,3 @@ A Power BI dashboard analyzing NCR Uber ride bookings to uncover trends in booki
 
 To provide data-driven insights that help understand booking trends, reduce cancellations, and optimize customer experience.
 
----
-
-If you want, I can make it *even shorter, add **badges, or write in a **more professional tone*.
