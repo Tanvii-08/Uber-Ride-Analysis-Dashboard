@@ -1,2 +1,29 @@
-# Uber-Ride-Analysis-Dashboard
-Interactive Power BI dashboard analyzing 150K+ Uber rides across NCR. Includes KPIs for bookings, revenue, cancellations, and ratings with insights on vehicle performance, payment trends, and time-based ride patterns. Built using Power Query and DAX for dynamic analytics.
+
+# 🚖 Uber Ride Analysis Dashboard (Power BI)
+
+A Power BI dashboard analyzing NCR Uber ride bookings to uncover trends in bookings, cancellations, revenue, and customer behaviour.
+
+## 📌 Features
+
+* Overall booking summary with monthly trends
+* Booking status breakdown (Success, Cancelled, Incomplete)
+* Vehicle-wise bookings & average distance
+* Revenue insights, payment method trends & top 5 customers
+* Cancellation analysis by customer & driver reasons
+* Average customer ratings
+* Interactive slicers for custom filtering
+
+## 🛠 Tools
+
+* Power BI
+* Power Query
+* DAX
+* CSV Dataset
+
+## 🎯 Objective
+
+To provide data-driven insights that help understand booking trends, reduce cancellations, and optimize customer experience.
+
+---
+
+If you want, I can make it *even shorter, add **badges, or write in a **more professional tone*.
