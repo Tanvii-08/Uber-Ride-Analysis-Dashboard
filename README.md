@@ -1,6 +1,6 @@
 # 🚖 Uber Insights Dashboard
 
-##**Uber Insights: Ride Analytics Dashboard**  
+**Uber Insights: Ride Analytics Dashboard**  
 A dynamic, interactive Power BI dashboard built to explore Uber booking data worldwide—focusing on booking trends, cancellations, revenue, and customer ratings.
 
 ## Purpose  
@@ -18,7 +18,7 @@ The dashboard was built using the following tools and technologies:
 
 
 ## 4. Data Source  
-**Source:** csv dataset -> ncr_ride_bookings.csv 
+**Source:** csv dataset -> `.ncr_ride_bookings.csv` 
 
 Data includes:  
 - Booking status (success, cancelled, ongoing)  
