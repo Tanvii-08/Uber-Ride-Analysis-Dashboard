@@ -6,8 +6,6 @@ A dynamic, interactive Power BI dashboard built to explore Uber booking data wor
 ## Purpose  
 The Uber Insights Dashboard is a visually engaging and analytical Power BI report designed to help users explore and compare Uber’s operational performance. It highlights booking status breakdowns, vehicle type performance, revenue trends, cancellation reasons, and customer ratings.  
 
-This tool is intended for use by operations managers, data analysts, and business strategists who seek to optimize ride-sharing services and improve customer experience.
-
 ## 3. Tech Stack  
 The dashboard was built using the following tools and technologies:  
 - 📊 **Power BI Desktop** – Main data visualization platform used for report creation  
@@ -59,15 +57,10 @@ To deliver an interactive visual tool that:
 - ❌ **Service Improvement**: Analyze cancellation reasons to reduce drop-offs and improve reliability  
 - ⭐ **Customer Experience**: Track ratings to enhance service quality across vehicle types  
 
----
-
-
 
 ## 📂 File Information  
 - Development File: `Uber_Insights.pbix`  
 - Preview Images: `.png` snapshots of dashboard visuals  
-
----
 
 ## 🚀 How to Use  
 1. Open the `.pbix` file in Power BI Desktop  
@@ -75,9 +68,5 @@ To deliver an interactive visual tool that:
 3. Use interactive slicers to filter by date, vehicle type, and booking status  
 4. Explore insights across bookings, revenue, cancellations, and ratings  
 
----
-
-## 👩‍💻 Author  
-Created by **Tanvi** – Data Analyst passionate about building polished, insightful dashboards that drive business impact.
 
 
