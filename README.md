@@ -1,6 +1,5 @@
 # 🚖 Uber Insights Dashboard
 
-**Uber Insights: Ride Analytics Dashboard**  
 A dynamic, interactive Power BI dashboard built to explore Uber booking data worldwide—focusing on booking trends, cancellations, revenue, and customer ratings.
 
 ## Purpose  
